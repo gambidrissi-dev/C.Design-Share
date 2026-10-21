@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.4.1</title>
+      <description><![CDATA[
+<h3>C.Design 0.4.1 : les mises à jour automatiques réparées</h3>
+<p>- La 0.4.0 ne s'installait pas par la mise à jour automatique (signature refusée). Cette version la remplace, avec tout ce qu'elle apporte : Fichier › Partager en ligne…, pour travailler à plusieurs depuis ton Mac.</p>
+      ]]></description>
+      <pubDate>Wed, 21 Oct 2026 22:49:01 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/C.Design-Share/releases/download/v0.4.1/C.Design-0.4.1.zip"
+                 sparkle:edSignature="6ScFyhRbiHKiL5JWyVQPUTUSxBiWjZHiybBdIpO1ggzyDz3pgeduPs6n75tHCPg2jXvEft3JGStunZpZRShrAA=="
+                 length="2076795"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.4.0</title>
       <description><![CDATA[
 <h3>C.Design 0.4.0 : travailler à plusieurs, depuis ton Mac</h3>
