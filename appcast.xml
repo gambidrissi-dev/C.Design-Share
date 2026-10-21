@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.5.0</title>
+      <description><![CDATA[
+<h3>C.Design 0.5.0 : la disposition automatique complète</h3>
+<p>- Retour à la ligne : en ligne, les éléments passent à la ligne suivante quand la largeur est pleine, avec un écart entre les lignes. - Position libre : un élément garde sa place, la disposition l'ignore (« position absolue » de Figma). - Largeur et hauteur min et max : pour un cadre qui épouse son contenu et pour un élément qui remplit. - La grille d'alignement à 9 points, comme dans Figma.</p>
+      ]]></description>
+      <pubDate>Wed, 21 Oct 2026 23:34:13 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/C.Design-Share/releases/download/v0.5.0/C.Design-0.5.0.zip"
+                 sparkle:edSignature="MI0sLqjI+7+qd0eXp+xjxNCyDxzyohZw+xnGmZh5tugco9kJBegjYFLXD34Y+r5ZRybQkyHFtlIkshP4nxX/DA=="
+                 length="2077969"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.4.1</title>
       <description><![CDATA[
 <h3>C.Design 0.4.1 : les mises à jour automatiques réparées</h3>
