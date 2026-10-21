@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.4.0</title>
+      <description><![CDATA[
+<h3>C.Design 0.4.0 : travailler à plusieurs, depuis ton Mac</h3>
+<p>- Fichier › Partager en ligne… : C.Design ouvre ses documents partagés aux appareils de ton réseau Tailscale, en HTTPS. Les documents restent sur ton Mac. - Les autres ouvrent le lien dans leur navigateur : curseurs, sélections, chacun annule ses propres actions. - La première fois, ton compte administrateur se crée tout seul ; son mot de passe s'affiche une fois. - Plus d'image grise chez les autres, et le même ordre de calques pour tout le monde après deux ajouts simultanés. - Il faut Node 24 ou plus sur le Mac (brew install node), et Tailscale pour partager au-delà de ce Mac.</p>
+      ]]></description>
+      <pubDate>Wed, 21 Oct 2026 21:20:04 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/C.Design-Share/releases/download/v0.4.0/C.Design-0.4.0.zip"
+                 sparkle:edSignature="Ef/pX0bVzHOUr2HUg+K4KJurWWHG8LdZLTzb0siR7+KGQsTXYB531qtu24m94Z6wiYq8wV6EsdRjUQnFmiStAg=="
+                 length="2076780"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.0</title>
       <description><![CDATA[
 <h3>C.Design 0.3.0 : le nouveau nom et le style des vignettes</h3>
