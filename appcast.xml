@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Figmalike Updates</title>
+    <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
+    <description>Mises à jour de Figmalike</description>
+    <item>
+      <title>Version 0.1.0</title>
+      <description><![CDATA[
+<h3>Figmalike 0.1.0 : première version publiée</h3>
+<p>L'atelier de création de Cobalt, en app Mac.</p>
+<p>- <b>Éditeur</b> : cadres aux formats prêts, formes, texte, images, calques, panneau Design, raccourcis de Figma, documents macOS avec enregistrement automatique. - <b>Charte Cobalt</b> : couleurs, polices, formes, logo, gabarits, Mes gabarits, aimantation. - <b>Composants</b> : instances, surcharges, variantes, disposition automatique. - <b>Pages, plume et prototypes</b>, avec le mode présentation. - <b>Exports</b> PNG, JPG, SVG et PDF vectoriel. - <b>Shorts vidéo</b> : montage, lecture, titres qui apparaissent un moment, export MP4. - <b>Mises à jour automatiques</b> par Sparkle.</p>
+      ]]></description>
+      <pubDate>Wed, 21 Oct 2026 20:03:33 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Figmalike-Share/releases/download/v0.1.0/Figmalike-0.1.0.zip"
+                 sparkle:edSignature="hXh5XUXGeLCK+HuGTRgaSy9wgOtLxH++rxQdjczt2kGLqP/JzCxZdZDCo7CIKX/WAPdnXAa5OeA6AUvGVRfrAw=="
+                 length="1923228"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
