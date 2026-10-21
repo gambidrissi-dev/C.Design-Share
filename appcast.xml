@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.3.0</title>
+      <description><![CDATA[
+<h3>C.Design 0.3.0 : le nouveau nom et le style des vignettes</h3>
+<p>- Figmalike s'appelle désormais C.Design, et ses fichiers .cdesign. L'ancienne app ne se met pas à jour vers la nouvelle : C.Design s'installe une fois depuis cette version. - Plusieurs remplissages par calque, dégradés linéaires et radiaux. - Des effets en liste : ombres portées, ombre interne, flou du calque. - Les modes de fusion : Produit, Écran, Incrustation… - Le contour à l'intérieur, centré ou à l'extérieur ; en pointillés ou en tirets. - Les masques : une forme rogne les calques posés au-dessus d'elle (⌃⌘M, ou plusieurs calques choisis).</p>
+      ]]></description>
+      <pubDate>Wed, 21 Oct 2026 20:50:36 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/C.Design-Share/releases/download/v0.3.0/C.Design-0.3.0.zip"
+                 sparkle:edSignature="mC03P5CMs4wtHaHSLXxmYMtbRNi/6VillwP0WKyAsYmPiUi6+7t1Armu+CgrH1u7S6ppb2C4utNC7rfpKxALAg=="
+                 length="1932558"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.2.0</title>
       <description><![CDATA[
 <h3>Figmalike 0.2.0 : plus sûre et plus solide</h3>
