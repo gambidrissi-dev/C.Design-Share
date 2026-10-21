@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.6.0</title>
+      <description><![CDATA[
+<h3>C.Design 0.6.0 : les composants complets</h3>
+<p>- Variantes à propriétés : nomme tes variantes « Bouton/Taille=Grand, État=Survol ». L'instance montre une liste par propriété, et changer la taille garde l'état. - « Ajouter une variante » sur un composant : une copie posée à côté, dans la même famille. - Propriétés de composant : coche « Réglable dans les instances » sur un calque d'un composant. Chaque instance peut alors l'afficher ou le masquer et, si c'est une instance, l'échanger contre un autre composant (une icône, par exemple). - Ressources range les composants par famille.</p>
+      ]]></description>
+      <pubDate>Wed, 21 Oct 2026 23:38:29 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/C.Design-Share/releases/download/v0.6.0/C.Design-0.6.0.zip"
+                 sparkle:edSignature="kr2jr+RgbmecrQjuDFklF8I/hGasW2CHHHJps9ojwQYplxIPxsFktAGJxL3XKesL45vCosRdLTeTbV+aUWV0DA=="
+                 length="2079057"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.5.0</title>
       <description><![CDATA[
 <h3>C.Design 0.5.0 : la disposition automatique complète</h3>
