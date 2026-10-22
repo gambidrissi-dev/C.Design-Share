@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.7.0</title>
+      <description><![CDATA[
+<h3>C.Design 0.7.0 : les styles et les variables</h3>
+<p>- Styles partagés : en tête de Remplissage, Texte et Effets, « Créer un style » depuis le calque choisi. Les calques qui suivent un style changent tous quand on le modifie depuis l'un d'eux. « Détacher le style » les libère. - Ressources liste les styles du document : un clic sur l'aperçu pose le style sur la sélection ; on les renomme et les supprime là. - Variables de couleur à modes : dans Ressources › Variables, une couleur nommée avec une valeur par mode (Clair, Sombre…). Lie-la à un remplissage ou un contour dans le panneau Design. - Mode d'un cadre : section Cadre › Mode. Tout ce qu'il contient prend les couleurs de ce mode, instances comprises. - Une couleur ou un texte lié changé à la main se détache de son style ou de sa variable, comme dans Figma.</p>
+      ]]></description>
+      <pubDate>Thu, 22 Oct 2026 16:22:54 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/C.Design-Share/releases/download/v0.7.0/C.Design-0.7.0.zip"
+                 sparkle:edSignature="6XrMYGBqOa6L0ONTwevnNyj85XosbjAp9RWYKOM76CtbePzMUhqRgUCcNeg6THVAPgf9ISnOsx8p59N5FGjADQ=="
+                 length="2083481"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.6.0</title>
       <description><![CDATA[
 <h3>C.Design 0.6.0 : les composants complets</h3>
