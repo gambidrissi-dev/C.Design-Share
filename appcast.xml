@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.7.1</title>
+      <description><![CDATA[
+<h3>C.Design 0.7.1 : C.Design rejoint la suite Collectif Cobalt</h3>
+<p>- Les documents récents apparaissent sur la carte Frame du tableau de bord Collectif Cobalt ; un clic en rouvre un. - C.Design répond à l'adresse cobalt-frame://, qui n'ouvre qu'un document de la liste des récents.</p>
+      ]]></description>
+      <pubDate>Sat, 24 Oct 2026 17:41:37 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/C.Design-Share/releases/download/v0.7.1/C.Design-0.7.1.zip"
+                 sparkle:edSignature="r20atj/cqe87gIikVbHA8TlG9jdHULgkylAjor13YATT2bdA3CHDKPQ+56YGHWCGqLWE/Q4j4QbWl1Gl5xVfCg=="
+                 length="2108680"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.7.0</title>
       <description><![CDATA[
 <h3>C.Design 0.7.0 : les styles et les variables</h3>
