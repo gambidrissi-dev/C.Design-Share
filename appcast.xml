@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.9.0</title>
+      <description><![CDATA[
+<h3>Renommage complet en Frame : app, identifiant com.collectifcobalt.frame, fichiers .frame (les .cdesign s'ouvrent toujours), code, serveur, docs ; reprise de Mes gabarits, de la base et des sauvegardes</h3>
+      ]]></description>
+      <pubDate>Fri, 30 Oct 2026 19:21:45 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Frame-Share/releases/download/v0.9.0/Frame-0.9.0.zip"
+                 sparkle:edSignature="IwCYgOTrz6KYdu8z7eKaOx3U9IpGId7MOEtZ1BOtyHCLRzkn02KnG8SYLrck1y8vmRbZop6FcMoZBhmsFo5JBQ=="
+                 length="2300318"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.8.0</title>
       <description><![CDATA[
 <h3>Historique : enLigne.ts chargé à la demande (avertissement de Vite au déploiement)</h3>
