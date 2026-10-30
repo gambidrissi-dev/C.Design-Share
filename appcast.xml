@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.10.2</title>
+      <description><![CDATA[
+<h3>Prototype retiré de Frame (liens au clic, transitions, overlays, défilement) ; la présentation reste un diaporama</h3>
+      ]]></description>
+      <pubDate>Fri, 30 Oct 2026 22:37:46 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.10.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Frame-Share/releases/download/v0.10.2/Frame-0.10.2.zip"
+                 sparkle:edSignature="BQ7E8EK2WaLKUMRf+Nv0+kFmqy0KixGH/G0RPXlIZk8d+reW67Va0l9cSH19aMgIMBYH9NbJhDrV4EXM+1r9Bg=="
+                 length="2603894"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.10.1</title>
       <description><![CDATA[
 <h3>Sélection et clic droit comme FigCraft : lasso du canvas vide réparé, ⌘ lasso profond, plage au ⇧ dans les calques, cadre autour de la sélection (⌥⌘G), menu contextuel</h3>
