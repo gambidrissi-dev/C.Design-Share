@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Figmalike-Share</link>
     <description>Mises à jour de Figmalike</description>
     <item>
+      <title>Version 0.8.0</title>
+      <description><![CDATA[
+<h3>Historique : enLigne.ts chargé à la demande (avertissement de Vite au déploiement)</h3>
+      ]]></description>
+      <pubDate>Fri, 30 Oct 2026 18:57:26 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/C.Design-Share/releases/download/v0.8.0/C.Design-0.8.0.zip"
+                 sparkle:edSignature="n1bOcT/X1z3HqjrTmw2CzjDCno+oEndtx4wKTZopPQVX6McdaBO5+4SJ3kujl0hSxas4KXjIl5NSHT25f5XfBw=="
+                 length="2300992"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.7.1</title>
       <description><![CDATA[
 <h3>C.Design 0.7.1 : C.Design rejoint la suite Collectif Cobalt</h3>
